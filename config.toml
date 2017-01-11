@@ -1,10 +1,10 @@
 # Site settings
-baseurl = "http://yuanheng.fans"
+baseurl = "https://fanyuanheng.github.io/yuanheng.fans/"
 languageCode = "en-AU"
 title = "Yuan Heng Fan"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-90175129-1"
 # Disable comments by leaving disqusShortname empty
 disqusShortname = ""
 
