@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fanyuanheng.github.io/yuanheng.fans/about/</loc>
-    <lastmod>2017-01-13T16:22:06+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fanyuanheng.github.io/yuanheng.fans/post/setup-on-demand-home-video-surveillance/</loc>
     <lastmod>2017-01-13T16:22:06+11:00</lastmod>
   </url>
   
   <url>
     <loc>https://fanyuanheng.github.io/yuanheng.fans/about/</loc>
-    <lastmod>2017-01-13T16:22:06+11:00</lastmod>
+    <lastmod>2017-01-13T16:00:06+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fanyuanheng.github.io/yuanheng.fans/about/</loc>
+    <lastmod>2017-01-13T16:00:06+11:00</lastmod>
     <priority>0</priority>
   </url>
   
