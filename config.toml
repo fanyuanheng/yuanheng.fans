@@ -11,9 +11,9 @@ disqusShortname = ""
 [params]
 	name = "Yuan Heng Fan"
 	description = ""
-	bio = "Digital Innovator - Solution Architect - Coder"
+	bio = "Digital Innovator, Solution Architect, Coder, Hacker"
 	# Enter optionally your twitter account
-	twitter = "Your Twitter account"
+	twitter = "fanyuanheng"
 	enableRSS = true
 
 	# Add custom assets with their paths relative to the static folder
