@@ -6,16 +6,37 @@
     <description>Recent content in Abouts on Yuan Heng Fan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-AU</language>
-    <lastBuildDate>Wed, 11 Jan 2017 11:04:56 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2017 16:22:06 +1100</lastBuildDate>
     <atom:link href="https://fanyuanheng.github.io/yuanheng.fans/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
+      <title>About</title>
       <link>https://fanyuanheng.github.io/yuanheng.fans/about/</link>
-      <pubDate>Wed, 11 Jan 2017 11:04:56 +1100</pubDate>
+      <pubDate>Fri, 13 Jan 2017 16:22:06 +1100</pubDate>
       
       <guid>https://fanyuanheng.github.io/yuanheng.fans/about/</guid>
-      <description></description>
+      <description>
+
+&lt;h2 id=&#34;profile&#34;&gt;Profile&lt;/h2&gt;
+
+&lt;p&gt;Yuan is an experienced full stack polyglot developer, DevOps practitioner, passionate about digital development for mobile and web applications. He creates high-quality clean code with Test and Behavior Driven development in design patterns.&lt;/p&gt;
+
+&lt;p&gt;In addition to his development skills, Yuan also championed DevOps best practice across many client projects, and he is an expert in tailoring a continuous delivery solution for organizations to auto pilot infrastructure &amp;amp; application provisioning, testing, and deployment of any digital product end to end. Yuan has also built both cloud and on-premise based container and application PaaS (Platform as a Service) for clients.&lt;/p&gt;
+
+&lt;p&gt;Yuan is also an experienced Agile coach and believes in a strong team rather than a group of individuals and will often lead his teams in this direction. Yuan is talented in bridging the gap between business and development and has a suite of analysis skills both business and technical to match his technical skills.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Monash University&lt;/strong&gt; (&lt;em&gt;2007 - 2008&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;Post-graduate diploma of Information Technology&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Griffith College, Dublin&lt;/strong&gt; (&lt;em&gt;2002 - 2006&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;Bachelor of Computer Science&lt;/p&gt;
+</description>
     </item>
     
   </channel>
